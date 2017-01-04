@@ -1,0 +1,15 @@
+{
+  "name": "virtual-device",
+  "version": "1.0.0",
+  "description": "a test instrument",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chezs",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mqtt": "^2.1.3"
+  }
+}
